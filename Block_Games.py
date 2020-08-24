@@ -202,3 +202,7 @@ if __name__ == "__main__":
 
 
     sc.mainloop()  # 창이 꺼지지 않고 계속 켜져있게 함
+
+    # Hello world!!!!!!!!!!
+    # Hello github!!!!!!!!!
+    # Bonjour
